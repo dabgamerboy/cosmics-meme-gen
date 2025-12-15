@@ -1,0 +1,5 @@
+{
+  "name": "Cosmics Meme Gen",
+  "description": "A cosmic-themed AI meme generator. Create hilarious memes from broad terms or images using Gemini's advanced image generation capabilities.",
+  "requestFramePermissions": []
+}
